@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+This web page demonstrates the awesome capability of Pages!
 ---
 
